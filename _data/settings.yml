@@ -34,7 +34,7 @@ menu__settings:
       url: '/blog/'
     
     - title: 'About'
-      url: '/About'
+      url: '/About/'
       
     - title: 'Pages'
       submenu:
