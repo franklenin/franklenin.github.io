@@ -120,8 +120,10 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Other icons can be found at https://ionicons.com/v4/
 social:
 - {icon: "ion-logo-twitter", link: "https://x.com/frankc_sierra"}  #link: "https://twitter.com"
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-github", link: "https://github.com/franklenin"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/franklenin/"}
+- {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=EYx6UuIAAAAJ&hl"} # If you want to use a generic Google icon
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-codepen", link: "https://codepen.io"}
+#- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+#- {icon: "ion-logo-youtube", link: "https://youtube.com"}
