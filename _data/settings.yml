@@ -62,7 +62,7 @@ author:
   #avatar: '/images/avatar.jpg'
   image: '/images/me.jpg'
   avatar: '/images/me.jpg'
-  button__text: See my works
+  button__text: See my projects
 
 
 #-------------------------------
@@ -70,7 +70,7 @@ author:
 # Projects Settings
 
 projects__settings:
-  projects__title: Latest <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
+  projects__title: Latest <span class="text-span">Projects</span> # Add a 'text-span' class to highlight text.
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 
@@ -78,7 +78,7 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+testimonial__title: People I've  <span class="text-span">Worked</span> With # Add a 'text-span' class to highlight text.
 
 testimonial-items:
   - name: "Zaire Baptista"
