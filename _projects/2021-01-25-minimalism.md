@@ -1,7 +1,7 @@
 ---
-title: Minimalism
+title: Detection Plants
 date: 2021-01-25 08:00:35 +0300
-subtitle: Photography
+subtitle: Image Object Detection
 image: '/images/project-8.jpg'
 ---
 
