@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
+title:  Why are we not using quantum mechanics to study the human brain?
 date:   2018-11-12 15:01:35 +0300
 image:  '/images/03.jpg'
 tags:   [life, story]
