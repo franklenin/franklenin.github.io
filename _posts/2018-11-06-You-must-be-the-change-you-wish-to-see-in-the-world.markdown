@@ -5,7 +5,7 @@ date:   2018-11-06 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [lifestyle, rest]
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+As it is the standard rule to use AI assistants for our daily tasks. I keept thinking in how the latest models resemble a lot the Librarian, that cool AI assistant that Neal Stephenson envisioned in Snow Crash (1992). However, as we are getting better and better at creating AI assitants. The Metaverse is still so far away. 
 
 <div class="gallery-box">
   <div class="gallery">
