@@ -81,24 +81,24 @@ projects__settings:
 testimonial__title: People I've  <span class="text-span">Worked</span> With # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Zaire Baptista"
+  - name: "Vineeth Das"
     image: "/images/client-1.jpg"
-    designation : "Traveler"
+    designation : "Associate Director"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Ann Philips"
+  - name: "Giovanni Di Liberto"
     image: "/images/client-2.jpg"
-    designation : "Designer"
+    designation : "Professor"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Roger Bergson"
+  - name: "Ilkay Isik"
     image: "/images/client-3.jpg"
-    designation : "CEO, Founder"
+    designation : "Data and Technology Consultant"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Julie Arnold"
+  - name: "Pol van Rijn"
     image: "/images/client-4.jpg"
-    designation : "Full stack developer"
+    designation : "Researcher"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
 
