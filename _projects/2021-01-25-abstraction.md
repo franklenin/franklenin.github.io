@@ -1,5 +1,5 @@
 ---
-title: Abstraction
+title: Conversations with Claude
 date: 2021-01-25 08:01:35 +0300
 subtitle: Branding
 image: '/images/project-1.jpg'
