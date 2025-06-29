@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
+title:  Conversations with Claude
 date:   2018-11-13 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [travel, lifestyle]
