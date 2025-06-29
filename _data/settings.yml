@@ -33,15 +33,13 @@ menu__settings:
     - title: 'Blog'
       url: '/blog/'
     
-    #- title: 'About'
-    #  url: '/About/'
+    - title: 'About'
+      url: '/About/'
       
     - title: 'Pages'
-      
       submenu:
       - url: '/about'
         title: 'About'
-      
       - url: '/elements'
         title: 'Elements'
 
@@ -83,24 +81,24 @@ projects__settings:
 testimonial__title: People I've  <span class="text-span">Worked</span> With # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Vineeth Das"
-    image: "/images/client-4.jpg"
-    designation : "Associate Director"
+  - name: "Zaire Baptista"
+    image: "/images/client-1.jpg"
+    designation : "Traveler"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-  - name: "Ilkay Isik"
-    image: "/images/client-4.jpg"
-    designation : "Data and Technology Consultant"
+  - name: "Ann Philips"
+    image: "/images/client-2.jpg"
+    designation : "Designer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-- name: "Giovanni Di Liberto"
-    image: "/images/client-4.jpg"
-    designation : "Professor"
+  - name: "Roger Bergson"
+    image: "/images/client-3.jpg"
+    designation : "CEO, Founder"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
-    
-  - name: "Pol van Rijn"
+
+  - name: "Julie Arnold"
     image: "/images/client-4.jpg"
-    designation : "Researcher"
+    designation : "Full stack developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
 
