@@ -82,7 +82,7 @@ testimonial__title: People I've  <span class="text-span">Worked</span> With # Ad
 
 testimonial-items:
   - name: "Vineeth Das"
-    image: "/images/client-1-vineeth.jpg"
+    image: "/images/client-1-vineeth.jpeg"
     designation : "Associate Director"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
