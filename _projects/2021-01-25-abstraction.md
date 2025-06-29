@@ -1,12 +1,11 @@
 ---
-title: Conversations with Claude
+title: An AI Parasite Detection System
 date: 2021-01-25 08:01:35 +0300
 subtitle: Branding
 image: '/images/project-1.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
-
+In this project I created an automatic system for detect parasites in videos. At the core of this system, there is a Transformer (Detection Transforer: DeTr) that analizes the videos. 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/project-5.jpg" alt="Project">
@@ -16,8 +15,15 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+The idea is quite simple: 
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+i) Our users make a fecal sample of the animal they want to test. 
+i) They send a video of that sample to our servers.
+ii) In our servers we deploy DeTr to analyze these videos.
+iv) After this, our users receive a summary of the analyses. 
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+
+<p><iframe src="https://www.youtube.com/watch?v=Uc96-OZE460" frameborder="0" allowfullscreen></iframe></p>
+
+The summary tells our users whether theirs animals areinfected,and if so, which parasites were detected.
+
