@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/15.jpg'
+#image: '/images/15.jpg'
 ---
 
 Hi, my name is Frank Sierra. I'm a Mexican AI Engineer and experimental scientist with a passion for cutting-edge technologies in AI and Neuroscience. I'm currently based in Dublin, Ireland, working as an ML Engineer. Prior to this, I completed my Ph.D. in Cognitive Neuroscience at the prestigious Max Planck Institute in Frankfurt, Germany.
@@ -9,7 +9,8 @@ Hi, my name is Frank Sierra. I'm a Mexican AI Engineer and experimental scientis
 My academic journey began at the National Autonomous University of Mexico (UNAM), where I earned a Bachelor's degree in Philosophy. This unique foundation allowed me to deeply explore subjects like consciousness, AI, philosophy of mind, logic, perception, rationality, and the foundations of quantum mechanics, which continue to shape my approach to advanced technologies today.
 
 ![Loneliness]({{site.baseurl}}/images/unam.jpg)
-* The National Autonomous Unviversity of Mexico (UNAM) is one the most beautiful campuses I have ever been  to and studied at. Photo by [Daniel Uribarren](https://unsplash.com/@danieluribarren) on Unsplash*
+
+*The National Autonomous Unviversity of Mexico (UNAM) is one the most beautiful campuses I have ever been  to and studied at. Photo by [Daniel Uribarren](https://unsplash.com/@danieluribarren) on Unsplash*
 
 I have spent my time in many research centers and different laboratories including Mexico City, Trento, Trieste, Berlin, Frankfurt, Amsterdam, and Dublin. I have presented my research work at different international conferences in differents countryes such as Brazil, USA, Mexico, Germany, Italy, and Finland.
 
