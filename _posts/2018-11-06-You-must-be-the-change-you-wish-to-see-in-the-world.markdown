@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  You must be the change you wish to see in the world
+title:  The Metaverse
 date:   2018-11-06 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [lifestyle, rest]
