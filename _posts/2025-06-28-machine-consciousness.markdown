@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Conversations with Claude
+title:  Machine Consciousness
 date:   2018-11-13 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [science, philosophy, AI]
