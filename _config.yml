@@ -28,6 +28,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  about:
+    output: true
+    permalink: /about/:slug
 
 # Pages Path
 defaults:
