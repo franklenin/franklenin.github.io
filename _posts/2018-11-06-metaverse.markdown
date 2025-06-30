@@ -5,6 +5,8 @@ date:   2018-11-06 15:01:35 +0300
 image:  '/images/09.jpg'
 tags:   [Technology, Literature]
 ---
+
+
 As it is the standard rule to use AI assistants for our daily tasks. I keept thinking in how the latest models resemble a lot the Librarian, that cool AI assistant that Neal Stephenson envisioned in Snow Crash (1992). However, as we are getting better and better at creating AI assitants. The Metaverse is still so far away. 
 
 <div class="gallery-box">
