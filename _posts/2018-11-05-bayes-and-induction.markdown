@@ -5,7 +5,7 @@ date:   2018-11-05 15:01:35 +0300
 image:  '/images/10.jpg'
 tags:   [travel, lifestyle]
 ---
-It is alsmot 300 years since David Hume proposed the problem of induction on his celebrated *A Treatise of Human Nature*. Hume's main thesis questions the validity of our inductive reasoning, As we know, our inductive reasoning relies on past experiences to predict future events, *e.g.* my prediction that the sun will arise tomorrow. 
+It is alsmot 300 years since David Hume proposed the problem of induction on his celebrated *A Treatise of Human Nature*. Hume's main thesis questions the validity of our inductive reasoning. As we know, our inductive reasoning relies on past experiences to predict future events, *e.g.* my prediction that the sun will arise tomorrow. 
 
 What Hume asesss is that we do not have any rational argument to relay in our inductive reasoning. While my prediction is pueril, let's not forget that induction is one the key components in all our scientific entreprise. That is, induction is a central component when we formulate and build scientific theories.  While Hume is right in hi critic, I propose that Bayesian statistics has a answer to the induction problem, and not only that. It has a beautifully formalism thay allows to mathematically quantify our degree of confidence in our predictions.
 
