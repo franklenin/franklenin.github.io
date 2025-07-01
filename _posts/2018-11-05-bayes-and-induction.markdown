@@ -2,7 +2,8 @@
 layout: post
 title:  Bayesian Statistics Solve the Problem of Induction
 date:   2018-11-05 15:01:35 +0300
-image:  '/images/10.jpg'
+#image:  '/images/10.jpg'
+<img src="/images/10.jpg" alt="Description" style="width: 90%; height: auto;">
 tags:   [philosophy, statistics, science]
 ---
 
