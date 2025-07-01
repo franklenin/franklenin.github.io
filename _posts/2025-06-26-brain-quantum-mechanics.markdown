@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why are we not using quantum mechanics to study the human brain?
+title:  Why do we not use quantum mechanics to study the human brain?
 date:   2018-11-12 15:01:35 +0300
 image:  '/images/brain.jpg'
 tags:   [science, technology]
