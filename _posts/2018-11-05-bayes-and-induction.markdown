@@ -2,8 +2,8 @@
 layout: post
 title:  Bayesian Statistics Solve the Problem of Induction
 date:   2018-11-05 15:01:35 +0300
-image:  '/images/10.jpg'
-tags:   [travel, lifestyle]
+#image:  '/images/10.jpg'
+tags:   [philosophy, statistics, science]
 ---
 It is alsmot 300 years since David Hume proposed the problem of induction on his celebrated *A Treatise of Human Nature*. Hume's main thesis questions the validity of our inductive reasoning. As we know, our inductive reasoning relies on past experiences to predict future events, *e.g.* my prediction that the sun will arise tomorrow. 
 
