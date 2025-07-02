@@ -13,9 +13,14 @@
               {% if site.data.settings.contact__settings.contact__title %}
                 <h2 class="contact-title">{{ site.data.settings.contact__settings.contact__title }}</h2>
               {% endif %}
+              
+              <form class="form" action="https://formspree.io/f/mjkrzvaw" method="POST">
+              <!--
               {% if site.data.settings.contact__settings.contact__description %}
                 <p class="contact-description">{{ site.data.settings.contact__settings.contact__description }}</p>
               {% endif %}
+              -->
+            
             </div>
             <form class="form" action="{% if site.data.settings.contact__settings.contact__email %}https://formspree.io/{{site.contact.email}}{% else %}#{% endif %}" method="POST">
               <div class="form__group">
