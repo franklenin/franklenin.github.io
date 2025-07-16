@@ -71,7 +71,7 @@ author:
 
 projects__settings:
   projects__title: Latest <span class="text-span">Projects</span> # Add a 'text-span' class to highlight text.
-  projects__description: These are some of my latest the projects! The go from deep learning, to cognitive neuroscience, & Veterinary epidemiology.
+  projects__description: Here are some of my latest projects! They range from deep learning to cognitive neuroscience and veterinary epidemiology.
 
 
 #-------------------------------
